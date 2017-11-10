@@ -1,0 +1,2 @@
+# Supplementary Online Material
+This is the supplementary online material for the paper 'Creating a beatable Tic-tac-toe AI using MonteCarlo Tree Search', written by Patrick Nobbe (6180272) and Daan den Hartog (6256090) for the class Onderzoeksmethoden at Utrecht University
